@@ -1,4 +1,5 @@
-** Files
+## Files
 
-** Participants
+## Participants
 Kyle, Ethan, Tyler, Abeed, Matt, Evan, JP
+
