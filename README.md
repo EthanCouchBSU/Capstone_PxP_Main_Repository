@@ -10,6 +10,9 @@
 * Ethan Couch
 
 ## Client Parter Information
+### Company:
+
+### People:
 
 ## Links
 
