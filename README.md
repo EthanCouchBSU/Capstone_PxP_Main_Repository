@@ -1,1 +1,11 @@
-# Capstone_PxP_Main_Repository
+# Play by Play
+
+##Sumary
+
+##Members
+
+##Client Parter Information
+
+##Links
+
+##Code Repositories
