@@ -1,11 +1,16 @@
 # Play by Play
 
-##Sumary
+## Summary
 
-##Members
+## Members
+* Kyle Sanders
+* Evan Turner
+* J.P. Rogers
+* Tyler Robertson
+* Ethan Couch
 
-##Client Parter Information
+## Client Parter Information
 
-##Links
+## Links
 
-##Code Repositories
+## Code Repositories
