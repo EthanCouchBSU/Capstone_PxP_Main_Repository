@@ -1,4 +1,5 @@
-** Files
+## Files
 
-**Participants
-Kyle, Ethan, Tyler, Abeed, Matt, Evan, JP
+## Participants
+Kyle, Ethan, Tyler, Abeed, Evan, JP
+
