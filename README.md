@@ -1,7 +1,7 @@
 # Play by Play
 
 ## Summary
-
+An app that connects to live sports games, allowing users to play a live quiz game relating to the game.
 ## Members
 * Kyle Sanders
 * Evan Turner
