@@ -8,4 +8,12 @@
 - Group admin can kick players (low)
 
 ## Explanation
-The reason we decided to start with implementing group mode was from all the feedback of wanting group mode to be accessible in the app. We do have a basic group mode but is currently not up to date so that is why this is a great first feature. Currently in the app you can create a group but thats really all you can do. So with implementing this feature, you will be able to start creating groups with other people, watch the game, answer questions, compete with friends, and other groups.
+We decided to start with Group Mode because it’s one of the features users have been asking for the most. While a very basic version of Group Mode exists in the app, it’s outdated and limited with only being able to create a group at this point.
+
+With this first iteration, users will finally be able to:
+- Create groups with friends
+- Join games and watch them together
+- Answer questions in real time
+- Compete against each other and other groups.
+
+This is also a great feature since we have limited time to complete iteration 1 and allows us to focus on the feature while just fixing minimal things from previous updates.
