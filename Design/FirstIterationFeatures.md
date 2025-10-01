@@ -1,3 +1,4 @@
+# First Iteration Features
 ## Focus on Group Mode
 - Users will be able to create multiple groups (high)
 - There will be a code that restricts access to the group (high)
