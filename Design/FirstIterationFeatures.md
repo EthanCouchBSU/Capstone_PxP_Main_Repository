@@ -17,3 +17,5 @@ With this first iteration, users will finally be able to:
 - Compete against each other and other groups.
 
 This is also a great feature since we have limited time to complete iteration 1 and allows us to focus on the feature while just fixing minimal things from previous updates.
+
+<a href="https://github.com/EthanCouchBSU/Capstone_PxP_Main_Repository/blob/main/AuxillaryFiles/README.md"> First Iteration To-Do List </a>
