@@ -1,16 +1,24 @@
 # Actors
-1. Users - Interested in an easy way to amplify their football game watching expierence.
-2. Game Master - Needs to create interesting calls, and set appropriate windows for each play made, relys on low latency and concise functionality.
+1. Users - Interested in an easy way to amplify their football game watching experience.
+2. Game Master - Needs to create interesting calls, and set appropriate windows for each play made, relies on low latency and concise functionality.
 3. Matt/Abeed - Looking for software in a good enough state to be able to sell to shareholders and acquire funding with.
 # Use Cases
 
 ## USC1 - New User watching live game
-New user joining the app for the first time to watch a game
+**Actors:** New user or football fans wanting to elevate there watching experience.
+- New user joining the app for the first time to watch a game and enhance his viewing experience.
 
+**Explanation:**
+- This use case is about the steps a new user takes to join the app, access a live game, and start making predicitons. It is very important because it enables users to experience the core functionality of the app immediately upon signing up.
+
+**Steps/Flow**
 1. Sign NDA
 2. Create a username, password, and email in database
 3. Accept email verification
 4. Enter the menu and select the game currently being played
+
+**Business Requirment:**
+- BR1 - Provides the core real time football prediciton experience.
 
 ## USC2 - Returning User watching an old game
 Returning user watching a game
