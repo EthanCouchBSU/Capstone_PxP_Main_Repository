@@ -1,9 +1,8 @@
 # Actors
 1. Users - Interested in an easy way to amplify their football game watching experience.
-2. Game Master - Needs to create interesting calls, and set appropriate windows for each play made, relies on low latency and concise functionality.
-3. Matt/Abeed - Looking for software in a good enough state to be able to sell to shareholders and acquire funding with.
-# Use Cases
+2. Matt/Abeed - Looking for software in a good enough state to be able to sell to shareholders and acquire funding with.
 
+# Use Cases
 ## UC1 - New User watching live game
 **Actors:** New user or football fans wanting to elevate their watching experience.
 - New user joining the app for the first time to watch a game and enhance his viewing experience.
