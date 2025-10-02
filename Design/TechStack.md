@@ -15,3 +15,5 @@ database, and analytics which is great for our app.
 ### Firestore
 <https://firebase.google.com/docs/firestore>
 - Firestore is apart of firebase but the main reason for using this is the instant update to the database. This will allow questions to show up instantly and games to show up as well.
+## Programming Language
+### Typescript
