@@ -4,39 +4,59 @@
 3. Matt/Abeed - Looking for software in a good enough state to be able to sell to shareholders and acquire funding with.
 # Use Cases
 
-## USC1 - New User watching live game
-**Actors:** New user or football fans wanting to elevate there watching experience.
+## UC1 - New User watching live game
+**Actors:** New user or football fans wanting to elevate their watching experience.
 - New user joining the app for the first time to watch a game and enhance his viewing experience.
 
 **Explanation:**
-- This use case is about the steps a new user takes to join the app, access a live game, and start making predicitons. It is very important because it enables users to experience the core functionality of the app immediately upon signing up.
+- This use case is about the steps a new user takes to join the app, access a live game, and start making predictions. It is very important because it enables users to experience the core functionality of the app immediately upon signing up.
 
 **Steps/Flow**
-1. Sign NDA
+1. Agree to the agreement
 2. Create a username, password, and email in database
 3. Accept email verification
 4. Enter the menu and select the game currently being played
 
 **Business Requirment:**
-- BR1 - Provides the core real time football prediciton experience.
+- BR1 - Provides the core real time football prediction experience.
 
-## USC2 - Returning User watching an old game
-Returning user watching a game
+## UC2 - Returning User watching an old game
+**Actors:** Returning user
+- A user who has previously used the app and wants to practice their prediction skills in legends mode.
 
-- Log into account using email/username and password
-- select game located under the legacy mode tab
+**Explanation:**
+- This use case is about the steps a returning user takes to play a legends game. Playing a legends game will allow users to practice and hone their skills to be able to earn points and rewards in a live game. 
 
-## USC3 - User playing in a group
-User joining and playing in a group
+**Steps/Flow**
+1. Log into account using email/username and password
+2. Select game located under the legends mode tab
+3. Answer predicitions based on the plays happening
 
-- Log into account
-- select group mode
-- IF first memeber of the group, set up a new group to get a code to give out to other members
-- Else, Enter code in group mode to join said group
-- Group admin selects the game to be watched, all other group members watch along
-- -group members compete in seperate group leaderboard, as well as world leaderboard
+**Business Requirment:**
+- BR1 - Accessing past games to make predictions is still about the users interaction with making predicitons and the experience the user gets.
 
+## UC3 - User playing in a group
+**Actors:** 
+- **User** - A user who wants to join a group to watch games and compete with friends
+- **Group Admin** - A user who creates a group and manages its settings.
 
+**Explanation:**
+- This use case shows how users can join a group and be able to play with friends while also competing against each other. Users can create a group or join a group to watch the game together, answer predicitons, and compete eithin the group or with other groups. This keeps users engaged while also having a friendly competition.
+
+**Steps/Flow:**
+1. Log into account
+2. Select group mode
+3. If the user is the first member of the group:
+  - Set up a new group
+  - Send group code to other people 
+4. Else
+  - Enter a code in group mode to join group
+5. Group admin selects the game to be watched
+6. All group members watch along the selected game
+7. Group members compete in a group leaderboard as well as a global group leaderboard
+
+**Business Requirement:**
+- BR2 - This supports user engagement through 
 
 ## USC4 - Game Master
 Game Matser setting up a game
