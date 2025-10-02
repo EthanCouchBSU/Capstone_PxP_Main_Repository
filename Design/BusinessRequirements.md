@@ -1,6 +1,6 @@
 # Business Requirements
 ## BR1: 
-The app will utilize a low latency live feed of American football games as well as utilize past American football games, and allow users to make predictions on said feed.
+The app will utilize a low latency live feed of football games and allow users to make predictions on the football game playing.
 
 This is required as it is the core objective of the app, to provide an extra service on top of the game to enhance the viewing experience. Low latency will provide fairness to the app and enchances the user experience.
 ## BR2:
